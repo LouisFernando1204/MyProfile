@@ -1,3 +1,5 @@
+https://github.com/LouisFernando1204/LouisFernando1204/assets/145947978/80eea0dc-af2f-4b80-8a17-c1945e8c30e0
+
 <h1 align="center">Hi 👋, I'm Louis Fernando 😃</h1>
 <h3 align="center">A passionate Web and iOS Developer. Exploring new technologies and building innovative solutions.</h3>
 
@@ -42,7 +44,7 @@
   </a>
 </p>
 
-<h3 align="left">Watch snake eating my Github Contributions</h3>
+<h3 align="left">Watch snake 🐍 eating my Github Contributions</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LouisFernando1204/LouisFernando1204/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/LouisFernando1204/LouisFernando1204/blob/output/github-contribution-grid-snake.svg" />
