@@ -33,7 +33,7 @@ https://github.com/LouisFernando1204/LouisFernando1204/assets/145947978/80eea0dc
 <h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=louisfernando1204&" alt="louisfernando1204" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=louisfernando1204&show_icons=true&locale=en&layout=compact" alt="louisfernando1204" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=louisfernando1204&show_icons=true&locale=en" alt="louisfernando1204" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=louisfernando1204&show_icons=true&locale=en" alt="louisfernando1204" /></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=louisfernando1204&label=Profile%20views&color=0e75b6&style=flat" alt="louisfernando1204" />
