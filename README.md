@@ -40,7 +40,7 @@ https://github.com/LouisFernando1204/LouisFernando1204/assets/145947978/80eea0dc
 </p>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=louisfernando1204&margin-w=15" alt="louisfernando1204" />
+    <img src="https://github-profile-trophy.vercel.app/?username=louisfernando1204&margin-w=15&margin-h=15" alt="louisfernando1204" />
   </a>
 </p>
 
